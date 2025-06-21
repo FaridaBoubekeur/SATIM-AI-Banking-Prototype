@@ -29,7 +29,7 @@ class _BankingChatbotPageState extends State<BankingChatbotPage>
 
   // GEMINI API Configuration
   static const String GEMINI_API_KEY =
-      'AIzaSyD719uhCSCFsV9X-Qykc_Js6vLdAhlzU8w'; // Replace with your actual API key
+      'Your_API_Key'; // Replace with your actual API key
   static const String GEMINI_API_URL =
       'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent';
 
